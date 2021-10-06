@@ -1,4 +1,4 @@
-package com.fikry.recyclerview;
+package com.ArdianHilmi.recyclerview;
 
 import android.content.Context;
 
