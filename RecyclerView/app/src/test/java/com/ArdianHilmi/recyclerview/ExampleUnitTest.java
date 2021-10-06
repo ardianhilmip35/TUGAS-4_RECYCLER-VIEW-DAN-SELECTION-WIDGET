@@ -1,4 +1,4 @@
-package com.fikry.recyclerview;
+package com.ArdianHilmi.recyclerview;
 
 import org.junit.Test;
 
