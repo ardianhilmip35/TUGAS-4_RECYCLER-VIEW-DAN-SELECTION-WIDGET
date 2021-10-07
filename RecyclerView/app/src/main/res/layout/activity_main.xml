@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    //Membuat widget RecyclerView data klub sepakbola di Indonesia
+    //Membuat widget RecyclerView data klub sepakbola di Premier League
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rcvKlub"
         android:layout_width="match_parent"
